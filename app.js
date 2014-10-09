@@ -1,7 +1,5 @@
 /**
-*
 * @author: Miles Bennett Dyson <mbdyson@cyberdinesystems.com>
-*
 **/
 
 // Load the http module to create an http server.
